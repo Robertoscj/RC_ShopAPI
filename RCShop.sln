@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCShop.ProdutoAPI", "RCShop.ProdutoAPI\RCShop.ProdutoAPI.csproj", "{B32858AD-8929-43B8-980E-CA2796D7814B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32858AD-8929-43B8-980E-CA2796D7814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32858AD-8929-43B8-980E-CA2796D7814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32858AD-8929-43B8-980E-CA2796D7814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32858AD-8929-43B8-980E-CA2796D7814B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0082DF-0225-4390-8884-65D6A68BDD35}
+	EndGlobalSection
+EndGlobal
